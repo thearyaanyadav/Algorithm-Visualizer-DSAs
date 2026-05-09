@@ -4,6 +4,8 @@ An interactive web app for visualizing sorting, searching, graph, pathfinding, a
 
 Built with **Vite + vanilla JavaScript** — no frameworks, no dependencies beyond the dev server.
 
+Artificial Intelligence has been used to beautify and streamline some aspects of the application.
+
 ![Welcome](screenshots/welcome.png)
 
 ---
